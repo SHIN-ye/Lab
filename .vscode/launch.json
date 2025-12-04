@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/zhg/Desktop/25秋/数据结构与算法/LAB/lab2",
-      "program": "c:/Users/zhg/Desktop/25秋/数据结构与算法/LAB/lab2/build/Debug/outDebug",
+      "cwd": "c:/Users/zhg/Desktop/25-autumn/Algorithm/Algorithm-Lab/lab3",
+      "program": "c:/Users/zhg/Desktop/25-autumn/Algorithm/Algorithm-Lab/lab3/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
